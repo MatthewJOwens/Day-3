@@ -1,3 +1,11 @@
 .max-width-1262 {
   max-width: 1262px;
 }
+
+body {
+  background-color: cornflowerblue;
+}
+
+.text-pacifico {
+  font-family: 'Pacifico', cursive;
+}
